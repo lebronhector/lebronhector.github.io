@@ -1,0 +1,192 @@
+.section {
+	padding: 2%;
+	background-color: #D3D3D3;
+}
+.quotes {
+	background-color: #f5f5dc;
+	margin-bottom: 8%;
+}
+.quotes img {
+	background-size: 50%;
+}
+.quotes p {
+	margin-left: 10%;
+	font-weight: bold;
+}
+.body {
+	text-align: center;
+	margin: 20px;
+	display: flex;
+	flex-direction: column;
+	background-color: #D3D3D3;
+}
+
+.father {
+	text-align: center;
+}
+
+.nav {
+	display: flex;
+	display: inline-block;
+}
+.select {
+	flex:1 ;
+}
+
+a:hover {
+    color: #464852;
+    font-size: 16px; 
+}
+
+ul li {
+	text-transform: capitalize;
+	color: #0E0101;
+	list-style-type: none;
+	font-weight: bold;
+}
+
+.wolf img {
+	width: 35%;
+	padding: 2%;
+}
+
+.wolf {
+	background-color: #D3D3D3;
+}
+
+.try {
+	display: flex;
+	flex: 2;
+	padding: 6%;
+}
+
+.middle {
+	display: flex;
+	background-color: #808080;
+
+}
+
+.u {
+	display: flex;
+	flex:2;
+	display: table-column;
+
+}
+
+.ye {
+	background-color: #;
+	display: flex;
+	flex: 2;
+	margin-left: 10%;
+	display: table-column;
+}
+.end {
+	display: flex;
+	flex:2;
+	padding-left: 10%;
+	background-color: #b2b2b2;
+}
+.untitled {
+	margin-bottom: 20%;
+	margin-left: 18%;
+}
+
+.forget {
+	margin-top: 10%;
+	margin-left: 20%;
+	display: flex;
+	display: table-column;
+}
+
+.mind {
+	border: ;
+	display: flex;
+	display: table-column;
+}
+
+.rain {
+	padding: 0% 15% 0% 15%;
+	display: flex;
+	display: table-column;
+}
+
+.dark {
+	display: flex;
+	background-color: #01010D;
+	color: #8B8C90;
+}
+.dark p {
+	display: flex;
+	padding: 0%;
+}
+.dark img{
+	width: 50%;
+	height: 50%;
+	padding: none;
+}
+.bottom {
+	height: 100%;
+}
+.destiny {
+	flex:1 ;
+	background-color: #A5AABC;
+}
+
+.destiny p {
+	color: #000005;
+	padding: 8% 1% 10% 10%;
+}
+.destiny img {
+	width: 50%;
+	height: 50%;
+}
+
+
+.pole {
+	display: inline-block;
+}
+
+h3 {
+	font-weight: bold;
+	text-transform: capitalize;
+}
+
+div:nth-child(odd) {
+	background-color: ;
+
+}
+div:nth-child(even) {
+	background-color: ;
+}
+p {
+	text-transform: capitalize;
+}
+
+.footer {
+	display: flex;
+	flex-direction: column;
+	background-color: #878f99
+	margin:0%;
+	padding: 0%
+}
+
+.bottom {
+	padding: 2%;
+	display: flex;
+}
+.destiny {
+	padding: 2%;
+	flex:1;
+}
+
+.image {
+	flex: 2;
+	padding: 2%;
+	background-image: url('night_covers_me.jpg');
+	background-size: cover;
+}
+
+.drk {
+	border: 1px solid black;
+	padding: 5%;
+}
